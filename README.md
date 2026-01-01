@@ -1,2 +1,318 @@
-# LifeOS-Web
-projeto de gerencia de finanças, estudo e evolução pessoal
+# LifeOS
+
+Sistema pessoal de gestão de vida, finanças e evolução pessoal.
+
+> **Projeto âncora de 2026** — desenvolvido com foco em clareza, disciplina e tomada de decisão consciente.
+
+---
+
+## 🧠 PASSO 1 — Core do LifeOS (Declaração Central)
+
+**LifeOS existe para me ajudar a tomar melhores decisões sobre tempo, dinheiro e evolução pessoal.**
+
+Este projeto nasce com um princípio simples e inegociável:  
+**clareza para decidir melhor.**
+
+Antes de qualquer linha de código, o LifeOS define **por que ele existe** — e essa razão guia todas as escolhas técnicas, visuais e funcionais do sistema.
+
+---
+
+### 🧭 Princípio Norteador
+
+Tudo no LifeOS passa por uma única pergunta:
+
+> **“Isso me ajuda a tomar melhores decisões sobre tempo, dinheiro ou evolução pessoal?”**
+
+- ✅ Se sim, entra no sistema  
+- ❌ Se não, fica fora — mesmo que seja tecnicamente interessante  
+
+---
+
+### 📌 Regra de Ouro
+
+- Clareza > Beleza  
+- Decisão > Dado bruto  
+- Consistência > Complexidade  
+
+O LifeOS não é sobre ter mais informações,  
+é sobre **tomar decisões melhores com menos fricção**.
+
+---
+
+### 🧩 Escopo do Sistema
+
+#### ✔ O que entra
+- Gestão de tempo, rotina e hábitos  
+- Controle financeiro e metas  
+- Estudos, progresso e evolução pessoal  
+- Histórico, métricas e tomada de decisão  
+
+#### ❌ O que não entra
+- Redes sociais ou feeds infinitos  
+- Funcionalidades sem impacto prático  
+- Complexidade sem retorno real  
+- Distrações disfarçadas de recursos  
+
+---
+
+### 🚀 Visão do Projeto
+
+O LifeOS é um sistema pessoal em evolução contínua, desenvolvido ao longo de **2026**, com foco em:
+
+- Autogestão consciente  
+- Crescimento sustentável  
+- Decisões orientadas por dados reais  
+- Evolução pessoal mensurável  
+
+---
+
+### 📍 Status do Projeto
+- 🔨 Em desenvolvimento  
+- 📆 Projeto âncora 2026  
+- 🧠 Filosofia definida antes do código  
+
+---
+
+## 🧱 PASSO 2 — Definição do MVP (Janeiro)
+
+> **Regra de ouro:** MVP não é uma versão incompleta ou mal feita.  
+> MVP é uma **versão focada**, funcional e com escopo fechado.
+
+Neste primeiro mês, o objetivo **não é construir o LifeOS completo**, mas sim criar uma **base sólida e motivadora**, que permita evolução contínua ao longo do ano.
+
+---
+
+### 🎯 MVP de Janeiro
+
+**FinanceOS + Base do Dashboard**
+
+#### Por que começar por aqui?
+- 💰 Finanças são um tema de alto interesse pessoal  
+- 📊 Resultados altamente mensuráveis  
+- 🚀 Motivação rápida ao visualizar progresso  
+- 🧠 Fundação para todos os outros módulos  
+
+Se este núcleo funcionar bem, todo o restante do sistema cresce de forma natural.
+
+---
+
+### 📦 Escopo FECHADO do MVP
+
+Nada entra além do que está descrito abaixo.  
+Nada é antecipado.
+
+---
+
+### 💰 FinanceOS — MVP
+
+**Funcionalidades obrigatórias:**
+- ✔ Cadastro manual de receitas  
+- ✔ Cadastro manual de despesas  
+- ✔ Classificação por categoria:
+  - Necessidades  
+  - Lazer  
+  - Investimentos  
+- ✔ Resumo financeiro mensal  
+- ✔ Visualização da regra **50 / 30 / 20**
+
+**Observações técnicas:**
+- Armazenamento em `localStorage`  
+- Toda a lógica implementada no front-end  
+
+---
+
+### 📊 Dashboard — MVP
+
+**Elementos essenciais:**
+- ✔ Saldo total do mês  
+- ✔ Total gasto no período  
+- ✔ Percentual aplicado em:
+  - Necessidades  
+  - Lazer  
+  - Investimentos  
+- ✔ Gráfico simples (barra ou pizza)  
+
+> Clareza e funcionalidade têm prioridade sobre complexidade visual.
+
+---
+
+### ❌ Fora do MVP (Não será implementado em Janeiro)
+
+Itens explicitamente fora do escopo:
+- ❌ Sistema de login ou autenticação  
+- ❌ Banco de dados  
+- ❌ APIs  
+- ❌ Backend  
+- ❌ Gamificação  
+- ❌ Múltiplos usuários  
+- ❌ Integrações externas  
+
+> 🔒 Escopo fechado = projeto concluído  
+> Escopo aberto = projeto abandonado  
+
+---
+
+### 🧠 Objetivo do MVP
+
+Ao final de janeiro, o sistema deve permitir responder com clareza:
+
+- 📉 Para onde meu dinheiro está indo?  
+- 📈 Estou respeitando a regra 50/30/20?  
+- 💡 Quanto sobra ao final do mês?  
+- 🔍 O que pode ser melhorado no próximo ciclo?  
+
+Se essas respostas forem claras, o MVP cumpriu seu papel.
+
+---
+
+## 🧠 PASSO 3 — Planejamento Visual (Wireframe Textual)
+
+Antes de iniciar HTML e CSS, foi realizado o planejamento visual assumindo o papel de **Product Designer + Desenvolvedor**.
+
+O foco não é estética, mas **estrutura, navegação e lógica das telas**, evitando retrabalho durante a implementação.
+
+---
+
+### 🎯 Objetivo
+- Definir quais telas existem  
+- Definir a responsabilidade de cada tela  
+- Definir o fluxo de navegação  
+
+📌 **Regra:**  
+Sem cores, sem tipografia, sem responsividade.  
+Apenas blocos estruturais e hierarquia de informação.
+
+---
+
+### 🧩 Entregáveis
+- Wireframe textual detalhado  
+- Fluxo de telas  
+- Definição clara das páginas do MVP  
+
+---
+
+### 📄 Telas do MVP
+- Dashboard  
+- FinanceOS  
+- Nova Receita  
+- Nova Despesa  
+- Histórico  
+
+---
+
+### 📊 Dashboard
+**Objetivo:** visão geral do mês atual.
+
+Estrutura:
+- Header (nome do sistema e módulo ativo)
+- Resumo Financeiro
+  - Saldo do mês
+  - Total de receitas
+  - Total de despesas
+- Regra 50/30/20
+- Atalhos rápidos
+
+📌 Apenas visualização.
+
+---
+
+### 💰 FinanceOS
+**Objetivo:** centralizar ações financeiras.
+
+Estrutura:
+- Resumo do mês
+- Ações principais
+- Últimas movimentações (até 5 registros)
+
+---
+
+### ➕ Nova Receita / ➖ Nova Despesa
+**Objetivo:** registrar entradas e saídas financeiras.
+
+Formulário:
+- Valor
+- Descrição
+- Categoria
+- Data
+
+📌 Despesas não entram como investimento.
+
+---
+
+### 📜 Histórico
+**Objetivo:** visualizar todas as movimentações.
+
+- Filtros simples
+- Lista completa de registros
+- Somente leitura no MVP
+
+---
+
+### 🗺️ Fluxo de Navegação
+
+Dashboard
+└── FinanceOS
+├── Nova Receita
+├── Nova Despesa
+└── Histórico
+
+
+---
+
+## 🧠 PASSO 4 — Regras de Negócio (OURO)
+
+> **A interface apenas exibe.  
+> A regra de negócio decide.**
+
+---
+
+### 💰 Receitas
+- Somam no saldo do mês
+- Entram no total geral
+- Associadas a um mês específico
+
+---
+
+### 💸 Despesas
+- Subtraem do saldo do mês
+- Entram no total gasto
+- Associadas a um mês específico
+
+---
+
+### 🗂️ Categorias — Regra 50/30/20
+- Necessidade (50%)
+- Lazer (30%)
+- Investimento (20%)
+
+---
+
+### 📆 Controle Mensal
+- Dados sempre filtrados por mês
+- Cada mês possui histórico independente
+
+---
+
+### 💾 Persistência
+- Dados armazenados no `localStorage`
+- Sem backend nesta fase
+- Estrutura preparada para migração futura
+
+---
+
+### ⚠️ Regras Obrigatórias
+- Nenhum lançamento sem valor, tipo, categoria e mês
+- Nenhuma lógica no HTML
+- Toda regra documentada antes de programar
+
+---
+
+## 🛠️ Stack (MVP)
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- LocalStorage
+
+---
+
+**Autor:** Derick Eduardo dos Santos Orcelino
